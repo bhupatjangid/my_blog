@@ -25,15 +25,20 @@
 ## Landing Page
 
 <img src="https://github.com/bhupatjangid/my_blog/blob/main/home.JPG" width="800"/>
-
+<br>
+<br>
 
 ## Compose new blog Page 
 
 <img src="https://github.com/bhupatjangid/my_blog/blob/main/compose.JPG" width="800"/>
+<br>
+<br>
 
 ## Description Blog Page
 
 <img src="https://github.com/bhupatjangid/my_blog/blob/main/description.JPG" width="800"/>
+<br>
+<br>
 
 
 
